@@ -26,5 +26,5 @@ int main()
    Wynik;
    }
    getch();
-
+   return 0;
 }

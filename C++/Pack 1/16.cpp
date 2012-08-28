@@ -22,5 +22,6 @@ int main()
 
     std::cout << "Pole kwadaratu wynosi " << a*a << std::endl;
     getch();
+       return 0;
 }
 

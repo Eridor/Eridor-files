@@ -37,5 +37,6 @@ int main()
     }
         SetConsoleTextAttribute(hConsole, 15);
     getch();
+       return 0;
 }
 

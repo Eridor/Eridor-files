@@ -22,5 +22,6 @@ int main()
 
         std::cout << "Najmniejsza liczba jest:" << x << std::endl;
         getch();
+   return 0;
 }
 

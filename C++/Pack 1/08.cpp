@@ -14,5 +14,6 @@ int main()
            i++;
         } while (i <= n);
     getch();
+   return 0;
 }
 

@@ -24,5 +24,6 @@ a--;
     a--;
  } while (a >=65);
     getch();
+       return 0;
 }
 

@@ -21,5 +21,6 @@ int main()
            i++;
         } while (i <= 99);
     getch();
+       return 0;
 }
 

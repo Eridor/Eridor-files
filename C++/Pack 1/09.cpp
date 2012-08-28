@@ -14,5 +14,6 @@ int main()
            i= i+5;
         } while (i <= 99);
     getch();
+       return 0;
 }
 

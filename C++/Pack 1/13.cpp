@@ -20,5 +20,6 @@ int main()
 
     std::cout << "Udalo sie!!! W puli jest " << suma;
     getch();
+       return 0;
 }
 

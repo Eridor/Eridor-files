@@ -26,5 +26,6 @@ int main()
 
     std::cout << std::endl;
     getch();
+       return 0;
 }
 

@@ -22,5 +22,6 @@ int main()
 
     std::cout << "Suma liczb parzystych w przedziale <0,100> jest rowna " << suma << std::endl;
     getch();
+       return 0;
 }
 

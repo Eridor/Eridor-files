@@ -14,5 +14,6 @@ int main()
            i++;
         } while (i <= 55);
     getch();
+       return 0;
 }
 
