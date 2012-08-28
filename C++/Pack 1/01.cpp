@@ -1,4 +1,3 @@
-// First - pierwszy program w C++
 #include <string>
 #include <iostream>
 #include <conio.h>
