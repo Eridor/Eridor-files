@@ -1,4 +1,4 @@
-// First - pierwszy program w C++
+
 #include <string>
 #include <iostream>
 #include <stdio.h>
