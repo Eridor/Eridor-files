@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1345237743 source:d:\michu\c++\c++\main.cpp
+	<string>
+	<iostream>
+	<conio.h>
+	<cmath>
+	<windows.h>
+
+1346153682 source:c:\users\eridor\documents\github\eridor-files\c++\main\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
