@@ -1,0 +1,40 @@
+Zad 1. Wykonaj schemat blokowy algorytmu, a nastêpnie program podejmowania decyzji, czy pobrana liczba
+jest dodatania.
+Zad 2. Wykonaj schemat blokowy algorytmu, a nastêpnie program podejmownia decyzji czy podana liczba jest
+dodatnia, ujemna czy jest zerem.
+Zad 3. narysuj schemat blokowy algorytmu oraz wykonaj program obliczaj¹cy iloraz dwóch zmiennych a i b.
+Zad 4. Skonstruuj algorytm, a nastêpnie napisz program, w którym u¿ytkownik po dokonaniu wyboru (jedna z
+czterech mo¿liwych opcji) obliczy pole prostok¹ta lub trapezu oraz objêtoœæ kuli lub sto¿ka.
+Zad 5. Natysuj schemat blokowy algorytmu, a nastêpnie wykonaj program który zwraca na wyjsciu najmniejsz¹
+z trzech ró¿nych liczb podanych na wejœciu.
+Zad 6. Narysuj schemat blokowy algorytmu, a nastêpnie wykonaj program wyznaczajacy rozwi¹zanie równiania
+kwadratowego "ax do 2 + bx+c=0"
+Zad 7. Narysuj algorytm a nastêpnie wykonaj program, który sprawdza czy wczytane z klawiatury boki trójk¹ta
+a,b,c ( zak³adamy ¿e abc nie mog¹ byæ równe zero oraz c>b>a) tworz¹ trójk¹t prostok¹tny. Jeœli spe³nione jest
+twierdzenie Pitagorasa to program obliczy sinus cosinus i tanges k¹ta alfa.
+Zad 8. Skonstuuj algorytm, a nastêpnie wykonaj program rysuj¹cy szlaczek sk³adaj¹cy siê z 15 znaków -gwiazki.
+Zad 9. Natysuj schemat blokowy algorytmu, a nastêpnie wykonaj program wypisuj¹cy wszystkie liczby
+dwucyfrowe z zastosowaniem pêtli.
+Zad 10. Narysuj algorytm a nastêpnie napisz program, który wypisze na ekranie monitora liczby naturalne z
+przediza³u <23, 55> oddzielone spacjami
+Zad 11. Narysuj algorytm a nastêpnie wykonaj program wypsiuj¹cy na ekrenia monitora wszystkie ducyfrowe
+liczby parzyste podzielne przez trzy.
+Zad 12. Narysuj algorytm, a nastêpnie wykonaj program, który pobiera na wejœciu ca³kowit¹ dodatni¹ liczbe
+mniejsz¹ od 100 a wyprowadza napis z informacja czy jest to liczba przysta czy nie.
+Zad 13. Narysuj algorytm a nastêpnie napisz program , który pobiera z klawiatury liczby podane przez
+u¿ytkownika, a¿ do momentu gdy ich suma bêdzie wiêksza ni¿ 50
+Zad 14. Narysuj algorytm a nastêpnie napisz program, który wyœwietla liczby parzyste dopóki ich suma nie
+przekroczy 20.
+Zad 15. Narysuj schemat blokowy algorytmu, którego zadanie polega na wypisaniu tabliczki mno¿enia dla
+czynników nale¿¹cych do przedzia³ [1,10]
+Zad 16. Narysuj algorytm a nastêpnie napisz program, obliczaj¹cy pole kwadratu o podanej d³ugoœci boku, W
+przypadku podania przez uzytkownika niew³aœciwej wartoœci ujemnej b¹dŸ zerowej, program powinien prosi o
+podanie w³aœciwej wartoœci.
+Zad 17. Narysuj algorytm a nastêpnie napisz program usmuj¹cy liczby parzyste z przedzia³u <0, 100>
+Zad 18. Narysuj algorytm a nastepnie napisz program sumuj¹cy liczby nieparzyste z przedzia³u <0, 100>
+Zad 19. Narysuj algorytm a nastepnie napisz program wyœwietlacj¹cy na ekranie monitora litery alfabetu od A
+do Z i od Z do A. Wykorzystaj fakt ¿e zmienna steruj¹ca mo¿e byæ równie¿ zmienn¹ typu char.
+Zad 20. Narysuj algorytm a nastêpnie napisz program obliczaj¹cy œredni¹ artymetyczn¹ dla liczb ca³kowitych
+wprowadzonych z klawiatury.
+Zad 21. Narysuj schemat blokowy algorytmu a nastêpnie wykonaj program badaj¹cy czy podana na wejœciu
+luczba n jest liczba pierwsz¹.
