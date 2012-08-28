@@ -1,0 +1,219 @@
+Algorytmy
+Algorytmy wyszukiwania
+001 Podaj algorytm wyszukiwania liniowego. Opisz jego dzia³anie. 15 min
+
+002 Podaj algorytm wyszukiwania liniowego z wartownikiem. Uzasadnij wzrost
+efektywnoœci tego algorytmu w porównaniu ze zwyk³ym wyszukiwaniem
+liniowym.
+15 min
+
+003 Podaj definicje logarytmu dwójkowego. Oblicz log2(32), log2(128). 10 min
+
+004 Podaj algorytm wyszukiwania binarnego. 15 min
+
+005 Uzasadnij fakt, i¿ klasa z³o¿onoœci obliczeniowej dla wyszukiwania binarnego
+wynosi O(log n), gdzie n oznacza liczbê przeszukiwanych elementów.
+10 min
+
+006 Podaj algorytm wyszukiwania interpolacyjnego. Uzasadnij, i¿ jest on zwykle
+szybszy od algorytmu wyszukiwania binarnego.
+20 min
+
+007 Podaj algorytm znajdowania najwiêkszego (najmniejszego) elementu w zbiorze. 10 min
+
+008 Podaj algorytm wyszukiwania najczêstszego elementu w n elementowym zbiorze. 15 min
+
+009 Na czym polega zasada dziel i zwyciê¿aj (ang. divide and conquer) ? 10 min
+
+010 Podaj algorytm jednoczesnego wyszukiwania w n elementowym zbiorze elementu
+najmniejszego i najwiêkszego, który wykorzystuje zasadê dziel i zwyciê¿aj.
+15 min
+
+011 Podaj algorytm wyszukiwania lidera w n elementowym zbiorze. 15 min
+
+012 Podaj algorytm wyszukiwania k-tego najwiêkszego elementu w n elementowym
+zbiorze.
+15 min
+
+013 Podaj algorytm wyszukiwania dominanty (najczêstszego
+elementu) w n elementowym zbiorze.
+20 min
+
+014 Podaj algorytm wyszukiwania mediany w n (n nieparzyste) elementowym zbiorze
+liczb ca³kowitych. Mediana zbioru jest elementem, który jest wiêkszy i mniejszy od
+tej samej liczby elementów.
+20 min
+
+015 Podaj algorytm wyznaczania liczby wyst¹pieñ zadanej wartoœci w n elementowym
+zbiorze liczb.
+15 min
+
+016 Podaj liniowy algorytm zliczania liczby wyst¹pieñ elementów w zbiorze liczb
+ca³kowitych o znanym min i max.
+20 min
+
+017 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych zliczy wszystkie liczby parzyste (nieparzyste) i poda ich iloœæ.
+15 min
+
+018 Zaprojektuj algorytm (program w jêzyku C++), który w zbiorze n elementowym
+liczb rzeczywistych wyznaczy najwiêkszy element, który jest mniejszy od œredniej
+arytmetycznej elementów tego zbioru.
+20 min
+
+019 Zaprojektuj algorytm (program w jêzyku C++), który w zbiorze n elementowym
+liczb ca³kowitych wyznaczy pozycje dwóch kolejnych elementów, które ró¿ni¹ siê
+od siebie o zadan¹ wartoœæ d. Algorytm powinien zwracaæ pozycjê pierwszego
+20 min
+
+elementu tej pary.
+020 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyznaczy pozycjê par kolejnych elementów, z których pierwszy
+jest wiêkszy od drugiego. Algorytm powinien zwracaæ pozycjê pierwszego
+elementu pary.
+20 min
+
+021 Liczby pitagorejskie a, b i c s¹ liczbami ca³kowitymi, które spe³niaj¹ warunek:
+a^2+b^2=c^2
+Zaprojektuj algorytm (program w jêzyku C++), który w zbiorze n elementowym
+liczb ca³kowitych wyszuka trójkê liczb pitagorejskich i wypisze ich wartoœci.
+20 min
+
+022 Treœæ jak w zadaniu 019, lecz dodatkowo znalezione liczby pitagorejskie musz¹ byæ
+pierwotne, tzn. nie mog¹ posiadaæ wspólnych dzielników.
+25 min
+
+023 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyszuka parê liczb, z których jedna jest pierwiastkiem drugiej.
+Para nie mo¿e sk³adaæ siê z liczb 0,0 oraz 1,1. Algorytm powinien zwracaæ wartoœæ
+tych elementów w kolejnoœci: liczba i jej pierwiastek.
+20 min
+
+024 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyszuka parê kolejnych elementów, których suma jest
+najwiêksza (najmniejsza). Algorytm powinien zwracaæ wartoœæ sumy.
+20 min
+
+025 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyszuka podzbiór k kolejnych elementów, których suma jest
+najwiêksza (najmniejsza). Algorytm powinien zwracaæ pozycjê pierwszego
+elementu podzbioru oraz wartoœæ sumy.
+20 min
+
+026 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyszuka wszystkie liczby pierwsze.
+25 min
+
+027 Zaprojektuj algorytm (program w jêzyku C++), który w n elementowym zbiorze
+liczb ca³kowitych wyszuka i wyœwietli wszystkie wielokrotnoœci innych liczb tego
+zbioru.
+25 min
+
+
+
+
+
+
+
+Æwiczenia w programowaniu
+Wszystkie programy korzystaj¹ z danych wejœciowych zdefiniowanych nastêpuj¹co:
+Pierwsza liczba n okreœla iloœæ elementów w zbiorze.
+Nastêpnie wystêpuje n liczb, które s¹ elementami zbioru.
+Na koñcu wystêpuj¹ dwie liczby a i b bêd¹ce parametrami dla zadania.
+
+
+
+Testowy zestaw danych
+500
+800 369 764 787 831 161 20 583 383 791 655 886 563 980 693 336 425 250 667 764 1 26 110
+816 758 177 680 492 53 342 661 865 856 406 402 292 427 60 523 917 460 827 757 564 731 
+255 473 23 345 170 770 250 360 360 538 974 931 404 743 621 23 324 1 32 93 531 931 877 355
+940 998 850 730 380 769 520 772 564 522 956 711 7 165 986 636 273 602 277 28 383 517 456
+124 377 557 972 939 862 863 595 746 678 11 924 92 3 910 231 504 804 368 978 469 438 545
+164 832 745 167 445 208 763 722 419 993 96 9 257 31 631 20 193 218 323 512 154 452 954
+601 163 302 332 447 215 761 635 756 727 750 749 754 170 695 563 138 562 918 731 219 273
+492 443 56 716 148 639 958 1 11 354 268 508 25 438 134 971 409 150 199 88 169 339 609 863
+875 146 998 450 601 349 782 427 656 595 561 478 168 870 549 947 685 731 778 563 2 392
+540 208 415 9 45 25 802 728 715 92 831 729 500 985 707 846 882 762 936 103 212 793 55 364
+430 334 832 941 513 284 327 374 50 151 247 393 858 97 139 644 958 78 907 644 215 116 788
+850 820 790 579 469 431 299 267 128 478 10 293 638 915 937 231 195 830 71 7 36 429 353
+983 747 627 516 950 362 996 962 638 445 476 763 724 747 306 324 358 9 29 365 492 329 961
+464 297 778 884 603 746 676 42 773 342 442 913 7 901 829 261 18 92 848 607 132 679 154
+625 95 643 371 801 58 786 779 564 268 2 431 533 814 72 0 542 94 600 417 283 102 887 457
+875 923 709 175 234 610 538 65 177 349 474 588 91 516 431 503 119 783 361 360 944 835
+818 895 980 307 318 690 202 113 683 896 1 44 693 158 762 868 429 959 319 89 382 781 879
+923 114 93 618 79 858 215 146 181 318 385 86 343 426 192 185 783 227 124 994 36 475 220
+853 405 913 970 138 993 21 3 48 916 862 42 891 477 121 821 230 816 893 453 898 175 183
+915 717 910 194 828 713 360 614 660 839 664 695 85 227 51 427 817 698 780 19 621 753 719
+213 958 735 810 186 816 518 105 324 797 782 322 722 171 803 432 751 897 727 859 632 146
+395 952 733 499 619 533 625 346 919 584 597 48 985 552 282 393 948 420
+105 416
+
+
+
+
+
+Grupa 1
+Zaprojektuj algorytm, który wyszuka w przedziale <a,b>, a < b, zadanego zbioru
+liczb ca³kowitych najwiêksz¹ liczbê parzyst¹ niepodzieln¹ przez 4, o ile taka istnieje
+w tym przedziale. Na podstawie algorytmu napisz program w jêzyku C++, który
+wczyta dane wg podanej definicji i wypisze wynik. W komentarzu programu zapisz
+swoje imiê i nazwisko oraz zaprojektowany algorytm w postaci listy kroków. Do
+oceny oddajesz tekst programu.
+
+Grupa 2
+Zaprojektuj algorytm, który wyszuka w przedziale <a,b>, a < b, zadanego zbioru
+liczb ca³kowitych parê s¹siednich liczb, których ró¿nica jest najwiêksza. Na
+podstawie algorytmu napisz program w jêzyku C++, który wczyta dane wg podanej
+definicji i wypisze wynik. W komentarzu programu zapisz swoje imiê i nazwisko
+oraz zaprojektowany algorytm w postaci listy kroków. Do oceny oddajesz tekst
+programu.
+
+Grupa 3
+Zaprojektuj algorytm, który zliczy liczby podzielne przez 6 i wpadaj¹ce w przedzia³
+<a,b>, a < b, zadanego zbioru liczb ca³kowitych oraz wypisze ich iloœæ. Na
+podstawie algorytmu napisz program w jêzyku C++, który wczyta dane wg podanej
+definicji i wypisze wynik. W komentarzu programu zapisz swoje imiê i nazwisko
+oraz zaprojektowany algorytm w postaci listy kroków. Do oceny oddajesz tekst
+programu.
+
+Grupa 4
+Zaprojektuj algorytm, który wypisze wszystkie pary elementów zadanego zbioru
+liczb ca³kowitych, takie ¿e drugi element pary jest kwadratem pierwszego i wpada w
+przedzia³ <a,b>, a < b.Na podstawie algorytmu napisz program w jêzyku C++, który
+wczyta dane wg podanej definicji i wypisze wynik. W komentarzu programu zapisz
+swoje imiê i nazwisko oraz zaprojektowany algorytm w postaci listy kroków. Do
+oceny oddajesz tekst programu.
+
+Grupa 5
+Zaprojektuj algorytm, który obliczy sumê wszystkich liczb nieparzystych
+niepodzielnych przez 3 i wiêkszych od parametru b w zadanym zbiorze liczb
+ca³kowitych, a nastêpnie wypisze wartoœæ tej sumy. Na podstawie algorytmu napisz
+program w jêzyku C++, który wczyta dane wg podanej definicji i wypisze wynik. W
+komentarzu programu zapisz swoje imiê i nazwisko oraz zaprojektowany algorytm
+w postaci listy kroków. Do oceny oddajesz tekst programu.
+
+Grupa 6
+Zaprojektuj algorytm, który wypisze wszystkie pary kolejnych liczb ze zadanego
+zbioru liczb ca³kowitych, takie ¿e pierwsza liczba pary jest mniejsza od parametru  a,
+a druga jest wiêksza od parametru b. Na podstawie algorytmu napisz program w
+jêzyku C++, który wczyta dane wg podanej definicji i wypisze wynik. W komentarzu
+programu zapisz swoje imiê i nazwisko oraz zaprojektowany algorytm w postaci
+listy kroków. Do oceny oddajesz tekst programu.
+
+Grupa 7
+Zaprojektuj algorytm, który wypisze wszystkie pary elementów wpadaj¹ce w
+przedzia³ <a,b>, a < b, zadanego zbioru liczb ca³kowitych, takie ¿e drugi element
+pary jest wiêkszy o nieparzyst¹ wartoœæ od pierwszego elementu. Na podstawie
+algorytmu napisz program w jêzyku C++, który wczyta dane wg podanej definicji i
+wypisze wynik. W komentarzu programu zapisz swoje imiê i nazwisko oraz
+zaprojektowany algorytm w postaci listy kroków. Do oceny oddajesz tekst
+programu.
+
+Grupa 8
+Zaprojektuj algorytm, który wyszuka w przedziale <a,b>, a < b, zadanego zbioru
+liczb ca³kowitych najmniejsz¹ liczbê nieparzyst¹ niepodzieln¹ przez 3, o ile taka
+istnieje w tym przedziale. Na podstawie algorytmu napisz program w jêzyku C++,
+który wczyta dane wg podanej definicji i wypisze wynik. W komentarzu programu
+zapisz swoje imiê i nazwisko oraz zaprojektowany algorytm w postaci listy kroków.
+Do oceny oddajesz tekst programu.
